@@ -1,5 +1,9 @@
 [
   {
+    "package": "ICED",
+    "oncran": true
+  },
+  {
     "package": "splithalf",
     "oncran": true
   }
