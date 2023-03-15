@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ICED"]
-	path = ICED
-	url = https://github.com/sdparsons/iced
-	shallow = true
-	registered = true
 [submodule "splithalf"]
 	path = splithalf
 	url = https://github.com/sdparsons/splithalf
+	shallow = true
+	registered = true
+[submodule "ICED"]
+	path = ICED
+	url = https://github.com/sdparsons/iced
 	shallow = true
 	registered = true

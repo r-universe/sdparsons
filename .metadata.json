@@ -1,10 +1,10 @@
 [
   {
-    "package": "ICED",
+    "package": "splithalf",
     "oncran": true
   },
   {
-    "package": "splithalf",
+    "package": "ICED",
     "oncran": true
   }
 ]
